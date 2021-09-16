@@ -19,7 +19,7 @@ step 4 :
     - import database file data.sql
 step 5:
     - run  
-        php artisan serve 
+       php artisan serve 
     
     
     
