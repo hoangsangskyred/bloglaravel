@@ -18,7 +18,8 @@ step 4 :
     - then in file .env config database for your
     - import database file data.sql
 step 5:
-    - run  php artisan serve 
+    - run  
+        php artisan serve 
     
     
     
