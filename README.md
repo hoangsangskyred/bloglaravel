@@ -4,13 +4,13 @@
 * Instruction setup 
 
 step 1 :
-    - git clone https://github.com/hoangsangskyred/bloglaravel.git 
+         git clone https://github.com/hoangsangskyred/bloglaravel.git 
       
 step 2 :
-    -  cd  bloglaravel
+        cd  bloglaravel
      
 step 3 :
-    -  composer install
+      composer install
     
 step 4 :
     
